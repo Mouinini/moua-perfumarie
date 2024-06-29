@@ -49,6 +49,7 @@
             padding: 1em;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
         }
         .biography, .contact {
             background-color: #ffedf2;
@@ -79,15 +80,15 @@
             <h2 class="section-title">Categorías de Perfumes</h2>
             <div class="categories">
                 <div class="category">
-                    <h3>Olores Dulces</h3>
+                    <h3><a href="dulces.html">Olores Dulces</a></h3>
                     <p>Perfumes con aromas azucarados y notas de vainilla, caramelo y frutas.</p>
                 </div>
                 <div class="category">
-                    <h3>Olores Florales</h3>
+                    <h3><a href="florales.html">Olores Florales</a></h3>
                     <p>Perfumes con notas frescas de flores como rosas, jazmín y lirios.</p>
                 </div>
                 <div class="category">
-                    <h3>Olores Amaderados</h3>
+                    <h3><a href="amaderados.html">Olores Amaderados</a></h3>
                     <p>Perfumes con tonos profundos y terrosos como sándalo, cedro y pachulí.</p>
                 </div>
                 <!-- Puedes agregar más categorías aquí -->
@@ -112,4 +113,7 @@
         </section>
     </div>
     <footer>
-        <p
+        <p>&copy; 2024 Moua Perfumarie. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
