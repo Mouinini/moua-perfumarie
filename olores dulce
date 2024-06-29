@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olores Dulces - Moua Perfumarie</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333;
+        }
+        header {
+            background-color: #f8b4c4;
+            color: #fff;
+            text-align: center;
+            padding: 2em 0;
+        }
+        .container {
+            padding: 2em;
+        }
+        .section-title {
+            color: #f8b4c4;
+            border-bottom: 2px solid #f8b4c4;
+            display: inline-block;
+            margin-bottom: 1em;
+        }
+        .fragrance-list {
+            background-color: #ffedf2;
+            padding: 2em;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #f8b4c4;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Olores Dulces</h1>
+        <p><a href="index.html" style="color: #fff;">&larr; Volver a Moua Perfumarie</a></p>
+    </header>
+    <div class="container">
+        <section>
+            <h2 class="section-title">Fragancias</h2>
+            <div class="fragrance-list">
+               
